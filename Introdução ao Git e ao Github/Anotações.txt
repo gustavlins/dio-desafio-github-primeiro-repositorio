@@ -1,2 +1,2 @@
 Link para download do Git: https://github.com/gustavlins/dio-desafio-github-primeiro-repositorio.git
-O GitBash é um terminal extendido para otimizar o uso do Git.
+O GitBash é um terminal extendido para otimizar o uso do git
